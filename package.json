@@ -1,0 +1,14 @@
+{
+  "name": "eslint-config-jelly",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "jelly"
+  ],
+  "author": "Hubert Siwkin",
+  "license": "MIT"
+}
