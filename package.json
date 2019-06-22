@@ -10,5 +10,12 @@
     "jelly"
   ],
   "author": "Hubert Siwkin",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": "hsiwkin/eslint-config-jelly",
+  "devDependencies": {
+    "eslint": "^6.0.0"
+  },
+  "peerDependencies": {
+    "eslint": "^6.0.0"
+  }
 }
