@@ -23,8 +23,4 @@ After completing [Installation](#install) section you can use this config by spe
 
 ## License
 
-[MIT][license] © Hubert Siwkin
-
-<!-- Definitions -->
-
-[license]: license
+[MIT](LICENSE) © Hubert Siwkin
