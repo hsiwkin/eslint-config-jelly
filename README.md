@@ -5,7 +5,11 @@ ESLint configuration file containign rules for React and Prettier.
 ## Install
 
 This package depends on modules defined in peer dependencies section of `package.json`.
+
+
 Use this command to list them: `npm info "eslint-config-jelly" peerDependencies`.
+
+
 If you're using **npm 5+** type: `npx install-peerdeps --dev eslint-config-jelly`.
 
 ## Usage
@@ -20,6 +24,12 @@ After completing [Installation](#install) section you can use this config by spe
   }
 }
 ```
+
+## Prettier in VSCode
+
+In case you'd be interested in Prettier integration in VSCode just add this line in `settings.json`:
+
+`"prettier.eslintIntegration": true`
 
 ## License
 
