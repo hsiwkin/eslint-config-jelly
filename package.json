@@ -8,6 +8,7 @@
     "eslint",
     "eslintconfig",
     "prettier",
+    "react",
     "jelly"
   ],
   "author": "Hubert Siwkin",
